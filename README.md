@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-axel-nine-orcin.vercel.app/"><b>Live Portfolio</b></a> •
-  <a href="https://www.fiverr.com/axl_29"><b>Fiverr Pro Profile</b></a> •
-  <a href="mailto:axelsammoli@gmail.com"><b>Get in Touch</b></a>
+  <a href="https://portfolio-axel-nine-orcin.vercel.app/" target="_blank"><b>Live Portfolio</b></a> •
+  <a href="https://www.fiverr.com/axl_29" target="_blank"><b>Fiverr Pro Profile</b></a> •
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=axelsammoli@gmail.com" target="_blank"><b>Get in Touch</b></a>
 </p>
 
 <p align="center">
