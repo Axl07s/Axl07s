@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/A2Vq3mGq5Kq479K0Zg/giphy.gif" alt="Miles Morales Chill" width="440" style="border-radius: 8px;" />
+  <img src="miles-morales.gif" alt="Miles Morales" width="500" style="border-radius: 8px;" />
 </p>
 
 <p align="center">
